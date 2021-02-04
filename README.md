@@ -9,3 +9,5 @@
 ### Day 02 - Progress Steps
 
 - setup var in CSS
+
+### Day 03 - Rotating Navigation
