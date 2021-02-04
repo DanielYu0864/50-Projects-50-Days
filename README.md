@@ -11,3 +11,7 @@
 - setup var in CSS
 
 ### Day 03 - Rotating Navigation
+
+- transfrom
+- transition
+- transtion-origin
