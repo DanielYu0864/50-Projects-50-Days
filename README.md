@@ -27,3 +27,11 @@
 ##### Learn: expand input by button click
 
 - toggle in classLisst
+
+### Day 05 - Blurry Loading
+
+##### Learn: blurry backgrond image while loading
+
+- stack overflow function
+- clac() in CSS
+- blur()
