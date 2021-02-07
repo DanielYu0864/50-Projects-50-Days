@@ -35,3 +35,11 @@
 - stack overflow function
 - clac() in CSS
 - blur()
+
+### Day 06 - Scroll Animation
+
+##### Learn: animation with div while scroll down
+
+- animation css with js
+- getBoundingClientRect() in js
+- js scroll with css display
