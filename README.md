@@ -43,3 +43,10 @@
 - animation css with js
 - getBoundingClientRect() in js
 - js scroll with css display
+
+### Day 07 - Split Landing Page
+
+##### Learn: expand div when mouse hover
+
+- var in css
+- 'mouseenter' & 'mouseleave' in addEventListener
