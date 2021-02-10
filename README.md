@@ -50,3 +50,9 @@
 
 - var in css
 - 'mouseenter' & 'mouseleave' in addEventListener
+
+### Day 08 - Form Wave Animation
+
+##### Learn: Wave animation with login form
+
+-
