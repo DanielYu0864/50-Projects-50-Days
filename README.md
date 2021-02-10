@@ -55,4 +55,4 @@
 
 ##### Learn: Wave animation with login form
 
--
+- transition-delay wiht Javascript
