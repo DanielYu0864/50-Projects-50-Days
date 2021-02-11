@@ -56,3 +56,10 @@
 ##### Learn: Wave animation with login form
 
 - transition-delay wiht Javascript
+
+### Day 09 - Sound Board
+
+##### Learn: Working with audio element
+
+- .play() in addEventListener to play audio
+- .pause() to stop play audio

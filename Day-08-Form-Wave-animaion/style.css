@@ -94,7 +94,7 @@ body {
   display: inline-block;
   font-size: 25px;
   min-width: 5px;
-  transition: 0.3s cubic-bezier(0.67, -0.55, 0.265, 1.55);
+  transition: all 0.3s cubic-bezier(0.67, -0.55, 0.265, 1.55);
 }
 
 .form-control input:focus + label span,
