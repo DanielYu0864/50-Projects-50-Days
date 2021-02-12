@@ -63,3 +63,12 @@
 
 - .play() in addEventListener to play audio
 - .pause() to stop play audio
+
+### Day 10 - Dad Jokes
+
+##### Learn: Working with third party api
+
+- http request & response
+- ### two ways fetching data in javascript
+  - fetch .then() .catch()
+  - async fetch await
