@@ -77,4 +77,5 @@
 
 ##### Learn: display deycodes
 
-- keydown in window.addEventListener
+- keydown event in window.addEventListener
+- key, code, and keyCode
