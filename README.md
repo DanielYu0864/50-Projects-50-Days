@@ -72,3 +72,9 @@
 - ### two ways fetching data in javascript
   - fetch .then() .catch()
   - async fetch await
+
+### Day 11 - Event KeyCodes
+
+##### Learn: display deycodes
+
+- keydown in window.addEventListener
