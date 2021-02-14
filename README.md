@@ -79,3 +79,15 @@
 
 - keydown event in window.addEventListener
 - key, code, and keyCode
+
+### Day 12 - FAQ Collapse
+
+##### Learn: toggle class at parent element
+
+- CSS
+
+  - position boxes
+  - toggle buttons
+
+- JS
+  - .parentNode V.S. parentElement
