@@ -99,6 +99,9 @@
 - CSS
   - textarea
 - JS
+  - setTimeOut(function(){}, times(milliseconds)) -> activate once after n time
+    & setInterval(function(){}, times(milliseconds)) -> activate every n time interval
+    & clearInterval(interval, times(milliseconds)) -> clear interval
   - .focus()
   - appEventListener('keyup', function)
   - Math.floor(Math.random() \* length)
