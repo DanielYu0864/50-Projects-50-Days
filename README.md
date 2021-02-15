@@ -91,3 +91,14 @@
 
 - JS
   - .parentNode V.S. parentElement
+
+### Day 13 - Random Choice Picker
+
+##### Learn: assign new element by input and get random
+
+- CSS
+  - textarea
+- JS
+  - .focus()
+  - appEventListener('keyup', function)
+  - Math.floor(Math.random() \* length)
