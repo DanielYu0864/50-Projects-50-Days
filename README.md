@@ -105,3 +105,13 @@
   - .focus()
   - appEventListener('keyup', function)
   - Math.floor(Math.random() \* length)
+
+### Day 14 - Animated Navigation
+
+##### Learn: Using CSS to create the icon
+
+- CSS
+  - expand div by .active toggle
+  - background-image: linear-gradient()
+- JS
+  - toggle button
