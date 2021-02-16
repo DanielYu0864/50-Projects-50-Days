@@ -111,7 +111,7 @@
 ##### Learn: Using CSS to create the icon
 
 - CSS
-  - expand div by .active toggle
+  - transform: rotate(deg) translateY(length);
   - background-image: linear-gradient()
 - JS
   - toggle button
