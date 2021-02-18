@@ -115,3 +115,12 @@
   - background-image: linear-gradient()
 - JS
   - toggle button
+
+### Day 15 - Incrementing Counter
+
+##### Learn: responsive web design
+
+- CSS
+  - media query
+- JS
+  - +number to be string EX: +counter.innerText;
