@@ -123,4 +123,15 @@
 - CSS
   - media query
 - JS
+
   - +number to be string EX: +counter.innerText;
+
+  ### Day 16 - Drink Water
+
+  ##### Learn: DOM (Document Object Model) maipulation
+
+  - CSS
+    - :root {} setup variable for later use
+  - JS
+    - prop.classList.contains() -> check if class existed
+    - prop.nextElementSibling -> next prop on the node list
