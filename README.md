@@ -138,8 +138,10 @@
 
 ### Day 17 - Movie App
 
-##### Learn: data api and DOM
+##### Learn: api data into DOM
 
 - CSS
-
+  - display info if hover
 - JS
+  - fetching data by async/await
+  - generate the element by api data
