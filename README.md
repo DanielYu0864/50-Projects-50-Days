@@ -135,3 +135,11 @@
   - JS
     - prop.classList.contains() -> check if class existed
     - prop.nextElementSibling -> next prop on the node list
+
+### Day 17 - Movie App
+
+##### Learn: data api and DOM
+
+- CSS
+
+- JS
