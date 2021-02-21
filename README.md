@@ -145,3 +145,14 @@
 - JS
   - fetching data by async/await
   - generate the element by api data
+
+### Day 18 Background Slider
+
+##### Learn: change body background image when div background image changed
+
+- CSS
+
+  - background image positioning
+
+- JS
+  - switch the background when button click
