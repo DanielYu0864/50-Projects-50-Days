@@ -146,7 +146,7 @@
   - fetching data by async/await
   - generate the element by api data
 
-### Day 18 Background Slider
+### Day 18 - Background Slider
 
 ##### Learn: change body background image when div background image changed
 
@@ -156,3 +156,16 @@
 
 - JS
   - switch the background when button click
+
+### Day 19 - Theme Clock
+
+##### Learn: How to make a clock
+
+##### Can Change: clock needle animation -> keep needle going instead of the circle all the way back to the 0
+
+- CSS
+  - clock UI
+  - clock needle positioning
+- JS
+  - scale() to turn time into clock needle
+  - new Date() to get current tiem info
