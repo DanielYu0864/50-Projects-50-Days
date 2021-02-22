@@ -169,3 +169,15 @@
 - JS
   - scale() to turn time into clock needle
   - new Date() to get current tiem info
+
+### Day 20 - Button Ripple Effect
+
+##### Learn: use JS and CSS to pinpoint where this mouse click on the button by using <span> to display and positioning
+
+- CSS
+  - scale()
+- JS
+  - MouseEvent.clientX
+  - MouseEvent.clientY
+  - HTMLElement.offsetLeft
+  - HTMLElement.offsetTop
