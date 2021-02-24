@@ -181,3 +181,18 @@
   - MouseEvent.clientY
   - HTMLElement.offsetLeft
   - HTMLElement.offsetTop
+
+### Day 21 - Drag N Drop
+
+##### Learn: how drag anad drop works and styling
+
+- HTML
+
+  - draggable='true'
+
+- CSS
+
+  - https://source.unsplash.com/random
+
+- JS
+  - .addEventListener() 'dragstart', 'dragend', 'dragover', 'dragenter', 'dragleave', 'drop'
