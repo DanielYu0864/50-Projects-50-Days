@@ -196,3 +196,18 @@
 
 - JS
   - .addEventListener() 'dragstart', 'dragend', 'dragover', 'dragenter', 'dragleave', 'drop'
+
+### Day 22 - Drawing App
+
+##### Learn: use HTML5 canvas element to build drawing app
+
+- HTML
+
+  - <canvas>
+
+- CSS
+  - .className > \*
+  - .className > \*:last-child
+- JS
+  - canvas API
+  - mouse event
