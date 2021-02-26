@@ -211,3 +211,12 @@
 - JS
   - canvas API
   - mouse event
+
+### Day 23 - Kinetic CSS Loader
+
+##### Learn: use keyframes and rotate to create an loading animation
+
+- CSS
+  - rotate()
+  - animation
+  - @keyframes
