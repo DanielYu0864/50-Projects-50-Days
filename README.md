@@ -220,3 +220,11 @@
   - rotate()
   - animation
   - @keyframes
+
+### Day 24 - Content Placeholder
+
+##### Learn: card styling
+
+- CSS
+  - card
+  - card loading animation
