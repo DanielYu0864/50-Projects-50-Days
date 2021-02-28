@@ -231,7 +231,7 @@
 
 ### Day 25 - Sticky Navbar
 
-##### Learn:
+##### Learn: color change nav bar
 
 - HTML
 
@@ -240,3 +240,6 @@
 - CSS
 
   - background image & text position
+
+- JS
+  - .addEventListener('scroll')
