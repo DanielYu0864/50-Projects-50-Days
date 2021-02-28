@@ -228,3 +228,15 @@
 - CSS
   - card
   - card loading animation
+
+### Day 25 - Sticky Navbar
+
+##### Learn:
+
+- HTML
+
+  - Lorem10 + enter to generator the 10 words
+
+- CSS
+
+  - background image & text position
