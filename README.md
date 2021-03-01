@@ -242,4 +242,17 @@
   - background image & text position
 
 - JS
+
   - .addEventListener('scroll')
+
+  ### Day 26 - Double Vertical Slider
+
+##### Learn: slider design and transform
+
+- CSS
+
+  - .left-slide > (immediate || child combinator) div: It matches only those elements matched by the second selector that are the direct children of elements matched by the first
+
+- JS
+  - slideRight.querySelectorAll('div').length
+  - .clientHeight
