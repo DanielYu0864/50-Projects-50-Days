@@ -245,7 +245,7 @@
 
   - .addEventListener('scroll')
 
-  ### Day 26 - Double Vertical Slider
+### Day 26 - Double Vertical Slider
 
 ##### Learn: slider design and transform
 
@@ -256,3 +256,16 @@
 - JS
   - slideRight.querySelectorAll('div').length
   - .clientHeight
+
+### Day 27 - Toast Notification
+
+##### Learn: notification box function and styling
+
+##### Change: add the input element that the notificaiton can be basic on it
+
+- CSS
+
+  - padding and margin with rem
+
+- JS
+  - append random color to the element
