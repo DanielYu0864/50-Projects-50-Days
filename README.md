@@ -269,3 +269,11 @@
 
 - JS
   - append random color to the element
+
+### Day 28 - Github Porfiles
+
+##### Learn:
+
+- CSS
+  - .user-form input::placeholder - to styling the placeholder
+- JS
