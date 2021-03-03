@@ -272,8 +272,11 @@
 
 ### Day 28 - Github Porfiles
 
-##### Learn:
+##### Learn: fatch api with axios
 
 - CSS
   - .user-form input::placeholder - to styling the placeholder
 - JS
+  - try {} catch() {}
+  - async/await
+  - use axios by paste the link in the html rather than install to the node package
