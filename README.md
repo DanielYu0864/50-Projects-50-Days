@@ -280,3 +280,11 @@
   - try {} catch() {}
   - async/await
   - use axios by paste the link in the html rather than install to the node package
+
+### Day 29 Double Click Heart
+
+##### Learn: double click event by set (new Date.getTime()) obj
+
+- JS
+  - new Date.getTime()
+  - loveMe.addEventListener('dblclick',{});
