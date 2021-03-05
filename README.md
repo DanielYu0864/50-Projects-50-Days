@@ -288,3 +288,12 @@
 - JS
   - new Date.getTime()
   - loveMe.addEventListener('dblclick',{});
+
+### Day 30 - Auto Text Effect
+
+##### Learn: Auto display text effect
+
+##### Can change : add new input ele to input your own text
+
+- JS
+  - setTimeout(writeText, speed);
