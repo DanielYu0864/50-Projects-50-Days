@@ -304,3 +304,4 @@
 
 - JS
   - String.fromCharCode
+  - clipboard copy function
