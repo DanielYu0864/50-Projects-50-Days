@@ -306,3 +306,19 @@
   - String.fromCharCode
   - clipboard copy function
   - randomFunc[funcName]() to acitve the function inside the object
+
+### Day 32 - Good, Cheap, Fast Checkboxes
+
+##### Learn: animation the checkboxes and on-off checkboxes basic on different conditional
+
+- HTML
+
+  - <label for=''> use for attribute to match <input id=''> id value
+
+- CSS
+
+  - .toggle:checked + .label -> '+'(Adjacent Sibling Selector): select any element DIRECTLY AFTER a element
+
+- JS
+
+  - use js logic to check/uncheck checkboxes
