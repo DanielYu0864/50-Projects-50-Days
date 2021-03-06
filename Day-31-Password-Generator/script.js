@@ -28,23 +28,24 @@ const randomFunc = {
 
 const generatePassword = (lower, upper, number, symbol, length) => {
   let generatedPassword = '';
-  console.log(length)
+  // console.log(length);
   const typesCount = lower + upper + number + symbol;
-  console.log(typesCount);
+  // console.log(typesCount);
   const typesArray = [{lower}, {upper}, {number}, {symbol}]
     .filter(item => Object.values(item)[0]); //* filter out all false value
-  console.log(typesArray);
+  // console.log(typesArray);
 
   if(typesCount === 0) {
     return '';
   }
 
-  for(let i = 0; i < length; i += typesCount) {
-    typesArray.forEach(type => {
-        const funcName = Object.keys(type)[0]
-        // console.log(funcName);
-        generatedPassword += randomFunc[funcName]();
-    })
+  for(let i = 0; i < length; i++) {
+    let index = Math.floor(Math.random() * typesArray.length);
+    // console.log(index);
+    const funcName = Object.keys(typesArray[index])[0];
+    // console.log(funcName);
+    generatedPassword += randomFunc[funcName]();
+
   }
 
   const finalPassword = generatedPassword.slice(0, length);

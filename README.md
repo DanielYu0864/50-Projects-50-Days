@@ -305,3 +305,4 @@
 - JS
   - String.fromCharCode
   - clipboard copy function
+  - randomFunc[funcName]() to acitve the function inside the object
