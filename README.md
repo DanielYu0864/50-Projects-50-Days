@@ -297,3 +297,10 @@
 
 - JS
   - setTimeout(writeText, speed);
+
+### Day 31 - Password Generator
+
+##### Learn: use Math.random() and fromCharCode() to built a password generator
+
+- JS
+  - String.fromCharCode
