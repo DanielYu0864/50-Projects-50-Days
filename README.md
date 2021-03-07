@@ -322,3 +322,14 @@
 - JS
 
   - use js logic to check/uncheck checkboxes
+
+### Day 33 Notes App
+
+###### Learn: use localstorage to create a note app
+
+- CSS
+
+  - styling textarea
+
+- Js
+  - localStorage && sessionStorage
