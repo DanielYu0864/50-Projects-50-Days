@@ -323,7 +323,7 @@
 
   - use js logic to check/uncheck checkboxes
 
-### Day 33 Notes App
+### Day 33 - Notes App
 
 ###### Learn: use localstorage to create a note app
 
@@ -333,3 +333,13 @@
 
 - Js
   - localStorage && sessionStorage
+
+### Day 34 - Animated Countdown
+
+###### Learn: animated countdown effects
+
+- CSS
+  - transform-origin: bottom center;
+- JS
+  - prop.addEventListener('animationend', e => {}) -> happen after animation
+  - element.animationName -> check element styling animationName
