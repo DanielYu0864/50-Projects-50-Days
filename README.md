@@ -343,3 +343,13 @@
 - JS
   - prop.addEventListener('animationend', e => {}) -> happen after animation
   - element.animationName -> check element styling animationName
+
+### Day 35 - Image Carousel
+
+- CSS
+
+  - transform: translateX(0) to switch the display image
+
+- JS
+  - setInterval() to auto switch the display image
+  - use clearInterval() to reset the time interval when button click
