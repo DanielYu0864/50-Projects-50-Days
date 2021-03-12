@@ -356,6 +356,12 @@
 
 ### Day 36 - Hoverboard
 
-- CSS
+##### Learn: JS mouseover, mouseout event + CSS transition to create an hoverboard animation
 
+- CSS
+  - max-width + flex-wrap: wrap to make element in the max-width width
+  - transtion
 - JS
+  - '#' + Math.floor(Math.random()\*16777215).toString(16) - to get random color
+  - addEventListener('mouseover', () => {}
+  - addEventListener('mouseout', () => {}
