@@ -353,3 +353,9 @@
 - JS
   - setInterval() to auto switch the display image
   - use clearInterval() to reset the time interval when button click
+
+### Day 36 - Hoverboard
+
+- CSS
+
+- JS
