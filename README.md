@@ -365,3 +365,18 @@
   - '#' + Math.floor(Math.random()\*16777215).toString(16) - to get random color
   - addEventListener('mouseover', () => {}
   - addEventListener('mouseout', () => {}
+
+### Day 37 - Pokedex
+
+##### Learn: use pokeapi to create cards of pokemon info
+
+- CSS
+
+  - display: flex;
+    flex-wrap: wrap;
+    align-items: space-between;
+    justify-content: center;
+    to build cards
+
+- JS
+  - str.padStart(targetLength [, padString])
