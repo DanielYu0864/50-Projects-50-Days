@@ -386,3 +386,4 @@
 ##### Learn: Mobile tab styling
 
 - CSS
+  - calc(100% - 75px) to do height
