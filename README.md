@@ -380,3 +380,9 @@
 
 - JS
   - str.padStart(targetLength [, padString])
+
+### Day 38 - Mobile Tab Navigation
+
+##### Learn: Mobile tab styling
+
+- CSS
