@@ -395,3 +395,6 @@
 - CSS
   - Tailwind CSS: https://tailwindcss.com/
   - filter: blur()
+
+- JS
+  - change blur basic on input password length
