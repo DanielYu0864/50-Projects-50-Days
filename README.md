@@ -387,3 +387,11 @@
 
 - CSS
   - calc(100% - 75px) to do height
+
+### Day 39 - Password Strength Background
+
+##### Learn: use Tailwind CSS to build the password strength test background
+
+- CSS
+  - Tailwind CSS: https://tailwindcss.com/
+  - filter: blur()
