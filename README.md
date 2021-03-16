@@ -398,3 +398,13 @@
 
 - JS
   - change blur basic on input password length
+
+### Day 40 - 3D Background Boxes
+
+##### Learn: split background image by using backgroundPosition
+
+- CSS
+  - transform: skewY();
+  - transform: skewX();
+- JS
+  - use 4*4 loop to create a box and position it
