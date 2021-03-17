@@ -393,6 +393,7 @@
 ##### Learn: use Tailwind CSS to build the password strength test background
 
 - CSS
+
   - Tailwind CSS: https://tailwindcss.com/
   - filter: blur()
 
@@ -407,4 +408,14 @@
   - transform: skewY();
   - transform: skewX();
 - JS
-  - use 4*4 loop to create a box and position it
+  - use 4\*4 loop to create a box and position it
+
+### Day 41 - Verify Account UI
+
+##### Learn: auto .focus() the next input box when keydown
+
+- CSS
+  - number input box styling
+  - -webkit-appearance
+- JS
+  - .focus() in Javascript
