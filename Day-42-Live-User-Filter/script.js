@@ -3,7 +3,7 @@ const filter = document.getElementById('filter')
 const listItems = []
 
 const getData = async () => {
-  const res = await fetch('https://randomuser.me/api/?results=50')
+  const res = await fetch('https://randomuser.me/api/?results=500')
 
   const { results } = await res.json()
 

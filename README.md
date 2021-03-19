@@ -425,5 +425,6 @@
 ##### Learn: search bar for filter user
 
 - CSS
-
+  - li:not(:last-of-type) -> any list item that is not the last\*/
 - JS
+  - https://randomuser.me/api
