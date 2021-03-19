@@ -428,3 +428,16 @@
   - li:not(:last-of-type) -> any list item that is not the last\*/
 - JS
   - https://randomuser.me/api
+
+### Day 43 Feedback UI Desgin
+
+##### Learn: use event bubbling to trigger the 'click' event
+
+##### can change: append the thank you info instead of innerHTML
+
+- CSS
+
+- JS
+  - event bubbling
+  - e.target.childNodes : The Node.childNodes read-only property returns a live NodeList of child nodes of the given element where the first child node is assigned index 0. Child nodes include elements, text and comments.
+  - e.target.nextElementSibling : The Element.nextElementSibling read-only property returns the element immediately following the specified one in its parent's children list, or null if the specified element is the last one in the list.
