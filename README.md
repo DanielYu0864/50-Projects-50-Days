@@ -441,3 +441,7 @@
   - event bubbling
   - e.target.childNodes : The Node.childNodes read-only property returns a live NodeList of child nodes of the given element where the first child node is assigned index 0. Child nodes include elements, text and comments.
   - e.target.nextElementSibling : The Element.nextElementSibling read-only property returns the element immediately following the specified one in its parent's children list, or null if the specified element is the last one in the list.
+
+###
+
+##### Learn: separate styling on the different browser EX: Chrome & Firefox
