@@ -442,6 +442,15 @@
   - e.target.childNodes : The Node.childNodes read-only property returns a live NodeList of child nodes of the given element where the first child node is assigned index 0. Child nodes include elements, text and comments.
   - e.target.nextElementSibling : The Element.nextElementSibling read-only property returns the element immediately following the specified one in its parent's children list, or null if the specified element is the last one in the list.
 
-###
+### Day 44 - Custom Range Slider
 
-##### Learn: separate styling on the different browser EX: Chrome & Firefox
+##### Learn: separate styling on the different browser EX: Chrome & Firefox and use js to position the lebal with slider thumb
+
+- CSS
+  - input[type='range']
+  - ::-webkit-slider
+  - ::-moz-range
+  - ::-ms
+- JS
+  - CSSStyleDeclaration.getPropertyValue(): method interface returns a DOMString containing the value of a specified CSS property.
+  - The Window.getComputedStyle() method returns an object containing the values of all CSS properties of an element, after applying active stylesheets and resolving any basic computation those values may contain.
