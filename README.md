@@ -454,3 +454,10 @@
 - JS
   - CSSStyleDeclaration.getPropertyValue(): method interface returns a DOMString containing the value of a specified CSS property.
   - The Window.getComputedStyle() method returns an object containing the values of all CSS properties of an element, after applying active stylesheets and resolving any basic computation those values may contain.
+
+### Day 45 - NetFlix Navigation
+
+##### Learn: navigation effect and animation with css
+
+- CSS
+  - transition-delay: ;
