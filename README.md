@@ -461,3 +461,11 @@
 
 - CSS
   - transition-delay: ;
+
+### Day 46 - Quiz App
+
+#### Learn: basic quiz app UI and functional
+
+- HTML
+  - <input type="radio" name="answer" id="a" class="answer">
+    <label for="a" id="a_text">Question</label>
