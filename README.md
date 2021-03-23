@@ -469,3 +469,12 @@
 - HTML
   - <input type="radio" name="answer" id="a" class="answer">
     <label for="a" id="a_text">Question</label>
+
+### Day 47 - Testimonial Box Switcher
+
+#### Learn: info card display and setTimeInterval work with animation
+
+- CSS
+  - animation: name 10s linear infinite;
+- JS
+  - setInterval(updateTestimonial, 10000)
