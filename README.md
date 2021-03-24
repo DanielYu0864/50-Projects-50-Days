@@ -478,3 +478,11 @@
   - animation: name 10s linear infinite;
 - JS
   - setInterval(updateTestimonial, 10000)
+
+### Day 48 - Random Image Feed
+
+##### use: 'https://source.unsplash.com/random/' to get random image url
+
+- CSS
+  - object-fit: cover;
+  - 4x4 grid
