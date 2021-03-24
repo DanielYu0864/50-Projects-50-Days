@@ -486,3 +486,11 @@
 - CSS
   - object-fit: cover;
   - 4x4 grid
+
+### Day 49 - Todo List
+
+#### Learn: use localstorage to create a todo app
+
+- JS
+  - localStorage.setItem('name', JSON.stringify(obj))
+  - JSON.parse(localStorage.getItem('name'))
