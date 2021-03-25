@@ -498,3 +498,10 @@
 ### Day 50 - Insect Catch Game
 
 ##### Learn: setting a timer and inserting random objects into the dom on the random rotation.
+
+- CSS
+
+  - page position
+
+- JS
+  - setTimeOut
