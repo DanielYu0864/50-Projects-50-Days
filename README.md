@@ -494,3 +494,7 @@
 - JS
   - localStorage.setItem('name', JSON.stringify(obj))
   - JSON.parse(localStorage.getItem('name'))
+
+### Day 50 - Insect Catch Game
+
+##### Learn: setting a timer and inserting random objects into the dom on the random rotation.
